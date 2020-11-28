@@ -27,7 +27,7 @@ its own line.
 # Examples
 
 ```
-**db_set 42 '{"name":"San Francisco","attractions":["Golden Gate Bridge"]}'**
-**db_get 42**
+db_set 42 '{"name":"San Francisco","attractions":["Golden Gate Bridge"]}'
+db_get 42
 {"name":"San Francisco","attractions":["Golden Gate Bridge"]}
 ```
